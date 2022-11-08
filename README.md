@@ -2,7 +2,7 @@
 
 ## My name is Hugo Salles, and I'm a Software Engineer
 
-#Passionate about all things tech, cars, and AI 👽
+Passionate about all things tech, cars, and AI 👽
 
 - 📍 Based in South Florida <br/>
 - 🔭 I’m currently working on some personal business projects!<br/>
