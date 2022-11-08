@@ -1,5 +1,7 @@
 ### Hello there 👋🏻
-# My name is Hugo Salles, and I'm a Software Engineer
+
+## My name is Hugo Salles, and I'm a Software Engineer
+
 #Passionate about all things tech, cars, and AI 👽
 <ul>
 - 📍 Based in South Florida <br/>
