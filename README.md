@@ -3,13 +3,13 @@
 ## My name is Hugo Salles, and I'm a Software Engineer
 
 #Passionate about all things tech, cars, and AI 👽
-<ul>
+
 - 📍 Based in South Florida <br/>
 - 🔭 I’m currently working on some personal business projects!<br/>
 - 🤝 I’m looking to collaborate on any interesting projects / research<br/>
 - 💬 Ask me about my time as an Avenger ...<br/>
 - 📫 Reach me: salles.hugo05@gmail.com<br/>
-</ul>
+
 <!--
 **Hugomelo11/Hugomelo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
