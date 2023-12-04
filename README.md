@@ -9,6 +9,7 @@ Passionate about all things tech, cars, and AI 👽
 - 🤝 I’m looking to collaborate on any interesting projects / research<br/>
 - 💬 Ask me about my time as an Avenger ...<br/>
 - 📫 Reach me: salles.hugo05@gmail.com<br/>
+- 🟩 Any missing green squares are replaced with my GitLab profile: www.gitlab.com/hugosal55q
 
 <!--
 **Hugomelo11/Hugomelo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
